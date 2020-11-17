@@ -2,7 +2,7 @@
 
 Project created by the difficulty encountered with PaymentsDS when used directly on the frontend.
 
-The project does not follow any pattern design that developers knows, I just structured it "institutionally" to facilitate myself in code organization.
+The project does not follow any pattern design that developers knows, I just structured it "institutionally" to facilitate myself in code organization. The CORS error.
 
 ## Install the dependencies
 ```bash
