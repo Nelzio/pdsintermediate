@@ -1,0 +1,17 @@
+{
+  "name": "expresslibs",
+  "version": "1.0.0",
+  "description": "express libs",
+  "main": "expresspayment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nelziositoe@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@paymentsds/mpesa": "0.1.0-alpha-9",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
